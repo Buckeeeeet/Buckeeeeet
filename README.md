@@ -28,7 +28,7 @@ Initially made for a one-day gamejam, I have decided to keep this project around
 
 <br>
 
-## Unnamed RPG project:
+## Tales from Deeper:
 
 *A side project video game.*
 
