@@ -6,7 +6,7 @@ I am currently a Software Engineer postgraduate student at [University of Techno
   
 <img alt="Currently working on:" src="https://img.shields.io/badge/Currently_working_on:-427c8c?style=for-the-badge" width=400>
 
-## VA50:
+## [VA50:](https://github.com/hamzahc3/VA50)
 
 An Augmented Reality game, tabletop version of a tower defense game.
 
@@ -18,7 +18,7 @@ School project made as part of a Artificial Vision specialisation.
 
 <br>
 
-## Clockwork Adventure:
+## [Clockwork Adventure:](https://github.com/Buckeeeeet/ClockworkAdventure)
 
 *A side project video game.*
 
@@ -28,7 +28,7 @@ Initially made for a one-day gamejam, I have decided to keep this project around
 
 <br>
 
-## Tales from Deeper:
+## [Tales from Deeper:](https://github.com/Buckeeeeet/TalesFromDeeper)
 
 *A side project video game.*
 
@@ -40,7 +40,7 @@ Currently, only its bases are written, and nothing functional is available.
 
 <img alt="Other school works:" src="https://img.shields.io/badge/Other_school_works:-427c8c?style=for-the-badge" width=400>
 
- ## Sensor AP4 A22:
+ ## [Sensor AP4 A22:](https://github.com/Buckeeeeet/SensorAP4_A22)
 
  A small-scale project made to learn the fundamentals of C++.
 
@@ -48,7 +48,7 @@ Currently, only its bases are written, and nothing functional is available.
 
 <br>
 
-## WE4A TP project:
+## [WE4A TP project:](https://github.com/gilles-maurer/WE4A_TP_project)
 
 A small-scale project made to learn HTML, PHP and CSS.
 
